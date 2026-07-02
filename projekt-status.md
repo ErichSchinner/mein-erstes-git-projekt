@@ -1,6 +1,6 @@
 # Projektstatus
 
 ## Status
-- Fortschritt: 70%
+- Fortschritt: 80   %
 - Budget: im Rahmen
 - Risiken: gering
